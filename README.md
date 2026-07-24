@@ -4,7 +4,7 @@ A modern, responsive personal portfolio website showcasing my professional exper
 
 ## 🚀 Live Demo
 
-Visit: [your-domain.vercel.app](https://your-domain.vercel.app)
+Visit: [chris-chua-portfolio.vercel.app](https://chris-chua-portfolio.vercel.app)
 
 ## ✨ Features
 
