@@ -8,18 +8,20 @@ Visit: [chris-chua-portfolio.vercel.app](https://chris-chua-portfolio.vercel.app
 
 ## ✨ Features
 
-- **Modern Design**: Dark theme with gradient accents and animated background effects
-- **Fully Responsive**: Looks great on desktop, tablet, and mobile devices
-- **Smooth Animations**: Intersection Observer-based fade-in animations
+- **Apple-Inspired Design**: System typography, restrained color, cinematic light/dark sections, and generous whitespace
+- **Fully Responsive**: Purpose-built desktop, tablet, and mobile layouts with a compact mobile menu
+- **Accessible Interaction**: Keyboard focus states, reduced-motion support, semantic structure, and comfortable touch targets
 - **Single Page**: Fast-loading static HTML with no build step required
-- **SEO Optimized**: Meta tags and semantic HTML structure
+- **SEO Optimized**: Canonical, Open Graph, structured data, and semantic HTML metadata
 
 ## 📁 Project Structure
 
 ```
 chris-portfolio/
-├── index.html      # Main website file
-└── README.md       # Documentation
+├── assets/
+│   └── chris-chua.png  # Professional portrait
+├── index.html          # Main website file
+└── README.md           # Documentation
 ```
 
 ## 🛠️ Local Development
